@@ -1,0 +1,22 @@
+{
+     "dct": 	"http://purl.org/dc/terms/",
+     "dpv": 	"http://www.w3.org/ns/dpv#",
+     "dpv-gdpr": 	"http://www.w3.org/ns/dpv-gdpr#",
+     "dpv-nace": 	"http://www.w3.org/ns/dpv-nace#",
+     "odrl": 	"http://www.w3.org/ns/odrl/2/",
+     "owl": 	"http://www.w3.org/2002/07/owl#",
+     "rdf": 	"http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+     "rdfs": 	"http://www.w3.org/2000/01/rdf-schema#",
+     "skos": 	"http://www.w3.org/2004/02/skos/core#",
+     "spl": 	"http://www.specialprivacy.eu/langs/usage-policy#",
+     "svd": 	"http://www.specialprivacy.eu/vocabs/data#",
+     "svdu": 	"http://www.specialprivacy.eu/vocabs/duration#",
+     "svl": 	"http://www.specialprivacy.eu/vocabs/locations#",
+     "svpu": 	"http://www.specialprivacy.eu/vocabs/purposes#",
+     "svpr": 	"http://www.specialprivacy.eu/vocabs/processing#",
+     "svr": 	"http://www.specialprivacy.eu/vocabs/recipients",
+     "xsd": 	"http://www.w3.org/2001/XMLSchema#",
+     "@vocab": "http://www.w3.org/ns/dpv#",
+     "class": "rdfs:class",
+     "label": "skos:prefLabel"
+}
